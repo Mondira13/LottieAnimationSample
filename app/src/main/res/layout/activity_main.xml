@@ -20,6 +20,7 @@
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="100dp"
             app:lottie_loop="true"
+            app:lottie_autoPlay="true"
             />
 
     <TextView
